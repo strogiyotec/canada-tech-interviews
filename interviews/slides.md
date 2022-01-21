@@ -19,13 +19,17 @@ class: 'text-white'
 ![Me](index.jpeg)
 
 1. Seniour Networking Engeneer in Relic Entertainment
-2. Java/Linux/Dabases enthusiast
+2. Java/Linux/Database enthusiast
 3. Open source lover
 4. <logos-Blogger/> **Blog** - https://strogiyotec.github.io/
 5. <logos-git/> **Github** - https://github.com/strogiyotec
 6. <logos-telegram/> **Telegram** - @Lollipopster
 
 
+---
+layout: center
+class: 'text-white'
+---
 The following is intended to outline my personal experience. It is intended
 for information purposes only, and may not be incorporated into any contract. It
 is not a commitment to deliver any material, code, or functionality, and should
@@ -65,8 +69,7 @@ class: 'text-white'
 layout: center
 class: 'text-white'
 ---
-# Let's start 
-## The size is actually matters 
+# The size is actually matters 
 1. Startups
 2. Medium size companies or big non technical companies
 3. Big tech companies
@@ -86,7 +89,7 @@ class: 'text-white'
 2. Language they use(java,js,python etc.)
 3. Framework they use(Spring,express,Django etc.)
 4. Database they use(Postgres,Mysql)
-5. Technical assignment
+5. Technical assignment(language doesn't matter)
 6. Previous experience if any
 
 ---
@@ -139,9 +142,8 @@ class: 'text-white'
 1. Check the company's product(register, send few requests, propose some additions)
 2. Tell us about yourself(my favorite question)
     1. Java virtual machine(show that you know the runtime of a language you are working with)
-    2. Garbage collectors(ask which garbage collector they use and why)
-    3. Databases(tell them how tables are stored on disk)
-    4. Linux
+    2. Garbage collectors(ask which garbage collector they use and why),Linux,DB
+    3. Explain them how framework works(What happens when 1000 users will visit your website)
 
 ---
 layout: center
